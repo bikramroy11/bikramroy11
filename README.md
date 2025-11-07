@@ -6,6 +6,12 @@
 <h3 align="center">🚀 Full Stack Developer | DevOps Learner | Generative AI Enthusiast</h3>
 
 <p align="center">
+  <a href="https://bikramroy.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Portfolio_Bikram-red?style=for-the-badge&logo=web"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=💻+Full+Stack+Web+Developer;☁️+Exploring+DevOps+and+Cloud;🧠+AI+%26+ML+for+Smart+Applications;🚀+Turning+Ideas+into+Reality!" alt="Typing SVG" />
 </p>
 
