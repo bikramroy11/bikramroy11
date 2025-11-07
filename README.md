@@ -23,7 +23,7 @@
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/bikramroy11" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bikram%20Roy-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/bikramroy11/"><img src="https://img.shields.io/badge/LinkedIn-Bikram%20Roy-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:royxbikram@gmail.com"><img src="https://img.shields.io/badge/Gmail-royxbikram%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
   <a href="https://github.com/bikramroy11"><img src="https://img.shields.io/badge/GitHub-bikramroy11-black?style=for-the-badge&logo=github"/></a>
   <a href="https://inquick.vercel.app/"><img src="https://img.shields.io/badge/Blogs-inQuick-purple?style=for-the-badge&logo=hashnode"/></a>
