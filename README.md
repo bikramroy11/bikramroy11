@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bikram%20Roy%20👨‍💻&fontSize=45&fontColor=ffffff" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Bikram Roy</h1>
 <h3 align="center">🚀 Full Stack Developer | DevOps Learner | Generative AI Enthusiast</h3>
 
@@ -5,7 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=💻+Full+Stack+Web+Developer;☁️+Exploring+DevOps+and+Cloud;🧠+AI+%26+ML+for+Smart+Applications;🚀+Turning+Ideas+into+Reality!" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRkankzcWJnMm56YWM2Zmh2NXhobWRwbWM0YzQ1NjVoZDllOHZwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nkLB4Gp8H6hFe/giphy.gif">
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%">
 
 ---
 
@@ -21,13 +27,29 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%">
+
+---
+
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/bikramroy11/"><img src="https://img.shields.io/badge/LinkedIn-Bikram%20Roy-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:royxbikram@gmail.com"><img src="https://img.shields.io/badge/Gmail-royxbikram%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/bikramroy11"><img src="https://img.shields.io/badge/GitHub-bikramroy11-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://inquick.vercel.app/"><img src="https://img.shields.io/badge/Blogs-inQuick-purple?style=for-the-badge&logo=hashnode"/></a>
+  <a href="https://www.linkedin.com/in/bikramroy11" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bikram%20Roy-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:royxbikram@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-royxbikram%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/bikramroy11">
+    <img src="https://img.shields.io/badge/GitHub-bikramroy11-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://inquick.vercel.app/">
+    <img src="https://img.shields.io/badge/Blogs-inQuick-purple?style=for-the-badge&logo=hashnode"/>
+  </a>
 </p>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%">
 
 ---
 
@@ -38,41 +60,20 @@
 
 ---
 
-### 🚀 Featured Projects  
-#### 🧠 [inQuick](https://inquick.vercel.app/)
-AI-powered tech blog platform using **Gemini API**, enabling smart content generation and editorial tools.  
-#### 🍔 [FoodTruck](#)
-Real-time food ordering system with live order tracking, menu management, and secure payments.  
-#### 🩺 [Clinitix](#)
-Doctor appointment booking platform with JWT auth, dashboards, and feedback system.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%">
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikramroy11&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikramroy11&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bikramroy11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📈 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikramroy11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bikramroy11&theme=algolia&no-frame=true&margin-w=15" />
-</p>
-
----
-
-### 📆 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikramroy11&bg_color=0f182a&color=00e6fe&line=00e6fe&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -88,20 +89,10 @@ _(Auto updates every few hours via GitHub Actions)_
 
 ---
 
-### ⚙️ DevOps Dashboard  
-| Tool | Description |
-|------|--------------|
-| 🐳 Docker | Containerized full-stack apps |
-| ☸️ Kubernetes | Deployment orchestration |
-| 🔁 CI/CD | GitHub Actions + Render auto-deploy |
-| ☁️ Cloud | AWS EC2, S3 for hosting and storage |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bikramroy11&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
-### 🧠 Fun Skill Meter
-```text
-Frontend (React, Next.js) ████████████████████░░░ 90%
-Backend (Node.js, Express) ██████████████████░░░░ 85%
-Database (MongoDB, SQL) ████████████████░░░░░░░░ 75%
-DevOps (Docker, CI/CD) ███████████████░░░░░░░░░░ 70%
-AI/ML (PyTorch, NLP) ███████████░░░░░░░░░░░░░░░ 55%
+⭐ **If you like my work, drop a ⭐ on my repositories! It motivates me to build more cool stuff!**
