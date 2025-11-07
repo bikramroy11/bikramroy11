@@ -77,20 +77,6 @@ Doctor appointment booking platform with JWT auth, dashboards, and feedback syst
 
 ---
 
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bikramroy11/bikramroy11/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-### 🧩 GitHub Metrics (Auto Updated)
-<p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=bikramroy11&template=classic&base=header,activity,community,repositories,metadata&base.indepth=true&base.hireable=true&config.timezone=Asia%2FKolkata" />
-</p>
-
----
-
 ### 📰 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - ✍️ [Understanding React Router & Nested Routing](https://inquick.vercel.app/)
@@ -119,4 +105,3 @@ Backend (Node.js, Express) █████████████████�
 Database (MongoDB, SQL) ████████████████░░░░░░░░ 75%
 DevOps (Docker, CI/CD) ███████████████░░░░░░░░░░ 70%
 AI/ML (PyTorch, NLP) ███████████░░░░░░░░░░░░░░░ 55%
-
