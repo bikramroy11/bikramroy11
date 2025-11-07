@@ -11,9 +11,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%">
-
----
 
 ### 🧠 About Me
 
@@ -23,13 +20,10 @@
 - 💬 Ask me about **React, Node.js, MongoDB, Docker, and AI tools**  
 - 📫 Reach me at: **royxbikram@gmail.com**  
 - 🧑‍💼 Portfolio: [**bikramroy.onrender.com**](https://bikramroy.onrender.com)  
-- ⚡ Fun fact: *I automate everything... even my coffee breaks ☕*
+- ⚡ Fun fact: *I'm a lazy person, so I’m the best kind of programmer ☕*
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%">
-
----
 
 ### 🌍 Connect with Me
 <p align="center">
@@ -50,9 +44,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%">
-
----
 
 ### 🧰 Tech Stack
 <p align="center">
@@ -61,39 +52,5 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%">
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikramroy11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bikramroy11&theme=algolia&no-frame=true&margin-w=15" />
-</p>
-
----
-
-### 📰 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- ✍️ [Understanding React Router & Nested Routing](https://inquick.vercel.app/)
-- 💡 [How I built inQuick: AI-powered Blog Platform](https://inquick.vercel.app/)
-- 🧠 [Introduction to Generative AI for Developers](https://inquick.vercel.app/)
-<!-- BLOG-POST-LIST:END -->
-
-_(Auto updates every few hours via GitHub Actions)_
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bikramroy11&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-</p>
-
----
 
 ⭐ **If you like my work, drop a ⭐ on my repositories! It motivates me to build more cool stuff!**
